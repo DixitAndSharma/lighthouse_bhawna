@@ -1,0 +1,49 @@
+img{
+  height: 100px;
+  border:1px solid gray;
+  padding:5px;
+  border-radius: 2%;
+  float: left;
+  width:170px;
+}
+
+.recipeDiv{
+  margin-top:30px;
+  border-bottom: 1px solid whitesmoke;
+  text-align: left;
+  margin-left:100px;
+  height: 125px;
+}
+
+.recipeName{
+  text-transform: uppercase;
+  margin-left:20px;
+  font-weight: bold;
+  color:#3e3e3e
+}
+
+ul{
+  margin-left:186px;
+  margin-top:5px
+}
+
+.spanIngredients{
+  font-weight: bold;
+  margin-left: 20px;
+  display: table-caption;
+}
+
+
+.lastSearchLabel
+{
+  font-weight: bold;
+}
+
+.lastSearchColumn{
+  vertical-align: baseline;
+  padding-top:32px
+}
+
+.lastSearchDiv{
+  border:1px solid gray
+}

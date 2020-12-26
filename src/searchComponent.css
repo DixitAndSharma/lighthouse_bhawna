@@ -1,0 +1,19 @@
+select, input{
+  padding: 4px;
+    margin-left: 5px;
+    border-color: #c8c8c8;
+    border-radius: 2px;
+    outline-width: 0;
+}
+
+input{
+  border-width: 1px;
+}
+
+#searchButton
+{
+  color:white;
+  background-color: blue;
+  border:1px solid blue;
+}
+
