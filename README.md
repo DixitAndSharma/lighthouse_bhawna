@@ -1,7 +1,9 @@
 To Run Project locally
-clone repo "https://github.com/DixitAndSharma/lighthouse_bhawna.git"
-"npm install" to install all required dependencies
-"npm start" to start app on local server
+
+
+1. clone repo "https://github.com/DixitAndSharma/lighthouse_bhawna.git"
+2. "npm install" to install all required dependencies
+3. "npm start" to start app on local server
 
 
 
